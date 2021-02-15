@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/EnterDoor.unity
+    guid: 7cfe8b6e5578fd64187b5037476a3d42
+  - enabled: 1
+    path: Assets/Scenes/Collision Detectors.unity
+    guid: b11f5796536e5b84782b66c18be3b941
+  - enabled: 1
+    path: Assets/Scenes/Particle Systems.unity
+    guid: 7376ff3b207037146b56e0da10ebe44f
+  m_configObjects: {}
